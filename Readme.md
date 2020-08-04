@@ -4,8 +4,8 @@ Need to download
 
 * train.csv
 * test.csv
-* train/..
-* test/..
+* train/...
+* test/...
 
 From
 
